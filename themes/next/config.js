@@ -1,8 +1,7 @@
 const CONFIG = {
 
   HOME_BANNER: true, // 首页是否显示大图及标语 [true,false]
-  HOME_BANNER_Strings: ['Hi，我是一个程序员', 'Hi，我是一个打工人', 'Hi，我是一个干饭人', '欢迎来到我的博客🎉'], // 首页大图标语文字
-
+  HOME_BANNER_Strings: ['山高有行路，水深有渡舟', '岁岁长欢愉，万事皆胜意','岁岁年年，万喜万般宜🎉'], // 首页大图标语文字
   NAV_TYPE: 'normal', // ['fixed','autoCollapse','normal'] 分别是固定屏幕顶部并始终显示、固定屏幕顶部且滚动时隐藏，不固定屏幕顶部
 
   POST_LIST_COVER: false, // 文章列表显示封面图
