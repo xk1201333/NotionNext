@@ -89,7 +89,7 @@ const LayoutBase = props => {
 
                             {children}
                         </Transition>
-                       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8361696780873530" crossorigin="anonymous"></script>
+                       <AdSlot type='native' />
                     </div>
 
                     {/* 右侧栏 */}
